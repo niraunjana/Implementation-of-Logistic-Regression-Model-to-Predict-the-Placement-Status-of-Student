@@ -95,30 +95,28 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 
 ## Output:
+![image](https://user-images.githubusercontent.com/119395610/235344682-24108ebc-7c4b-4a6b-adc3-aeba1a0734b4.png)
 
-![WhatsApp Image 2023-04-13 at 19 13 19](https://user-images.githubusercontent.com/119395610/231783637-29e43dec-a090-44ca-a851-a7a334c202c6.jpg)
+![image](https://user-images.githubusercontent.com/119395610/235344690-30edfdc4-3ddf-478d-9409-effc60acac99.png)
 
-![WhatsApp Image 2023-04-13 at 19 21 02](https://user-images.githubusercontent.com/119395610/231783690-61258729-3fb4-43e7-8c0d-6f5b4a84dd1a.jpg)
+![image](https://user-images.githubusercontent.com/119395610/235344707-28c39344-cd66-4b09-a4e5-ddce01a98ecd.png)
 
-![WhatsApp Image 2023-04-13 at 19 21 11](https://user-images.githubusercontent.com/119395610/231783744-f5120fc8-fb19-4883-85ab-7929c766c9e4.jpg)
+![image](https://user-images.githubusercontent.com/119395610/235344720-ef608bb3-b5ab-4acd-b2e1-97228322fe79.png)
 
-![WhatsApp Image 2023-04-13 at 19 21 21](https://user-images.githubusercontent.com/119395610/231783820-9f11230f-5b7d-4bad-8712-684a410c2062.jpg)
+![image](https://user-images.githubusercontent.com/119395610/235344730-f4676f1c-b642-40ec-be3b-17cf27bfc149.png)
 
-![WhatsApp Image 2023-04-13 at 19 21 33](https://user-images.githubusercontent.com/119395610/231783882-788a2387-b8c2-4c7d-8f33-8fbdf2bb037f.jpg)
+![image](https://user-images.githubusercontent.com/119395610/235344743-028d7ded-635b-4e85-aa6e-2f8cd91751de.png)
 
-![WhatsApp Image 2023-04-13 at 19 21 42](https://user-images.githubusercontent.com/119395610/231784006-ea776841-f091-413b-a81a-8792630d4817.jpg)
+![image](https://user-images.githubusercontent.com/119395610/235344752-da829ed5-f09f-4dda-a183-f1e109674716.png)
 
-![WhatsApp Image 2023-04-13 at 19 29 28](https://user-images.githubusercontent.com/119395610/231784092-c03aa71c-3c0e-44a4-b4c5-3cbcdb105789.jpg)
+![image](https://user-images.githubusercontent.com/119395610/235344759-6a8581a7-70b7-4bb7-9181-b8adce137ec4.png)
 
-![WhatsApp Image 2023-04-13 at 19 29 53](https://user-images.githubusercontent.com/119395610/231784153-3d5be7f3-d413-42b4-a79c-f6836cf5af40.jpg)
+![image](https://user-images.githubusercontent.com/119395610/235344772-72ea722e-0020-489f-be61-ecbcac55e2e6.png)
 
-![WhatsApp Image 2023-04-13 at 19 30 03](https://user-images.githubusercontent.com/119395610/231784264-7b01da50-586e-4520-8480-7f70b9342adf.jpg)
+![image](https://user-images.githubusercontent.com/119395610/235344778-5121373f-147e-40ee-aca0-f21017c0c649.png)
 
-![WhatsApp Image 2023-04-13 at 19 30 14](https://user-images.githubusercontent.com/119395610/231784330-dcc4fa61-c2b4-4e03-bb30-6340cd2e6eb9.jpg)
+![image](https://user-images.githubusercontent.com/119395610/235344787-3d80576f-74a5-4ce8-a418-3798a477ced9.png)
 
-![WhatsApp Image 2023-04-13 at 19 30 24](https://user-images.githubusercontent.com/119395610/231784398-d8894d0d-df59-445a-a4b2-b835f7eca11b.jpg)
-
-![WhatsApp Image 2023-04-13 at 19 30 35](https://user-images.githubusercontent.com/119395610/231784452-6c65e340-af40-4f53-9c51-c9e0a111358a.jpg)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
